@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rasiely_test_form/precache-manifest.422e73a2df1ae3c71d1461b917ab1826.js"
+  "/rasiely_test_form/precache-manifest.0d90eea02ad45e255930739a65f624a6.js"
 );
 
 self.addEventListener('message', (event) => {
