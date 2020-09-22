@@ -1,5 +1,5 @@
 import React from 'react';
-import {  getQueriesForElement, render, screen } from "@testing-library/react"
+import {   render } from "@testing-library/react"
 import TextBox from '../components/Auth/TextBox';
 
 test("TextBox placeholder test ",()=>{
