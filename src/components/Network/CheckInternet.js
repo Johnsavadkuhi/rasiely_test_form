@@ -4,7 +4,7 @@ function CheckInternet(props){
 
     return <>
     
-    {navigator.onLine  ? <>{props.children} </>: <div>اینترنت قطع شده است</div>}
+    {navigator.onLine  ? <>{props.children} </>: <div>No Internet</div>}
     
     </>
 }
